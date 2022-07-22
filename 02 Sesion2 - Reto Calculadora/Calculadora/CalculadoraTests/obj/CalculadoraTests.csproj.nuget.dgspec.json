@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\CalculadoraTests\\CalculadoraTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\CalculadoraTests\\CalculadoraTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\CalculadoraTests\\CalculadoraTests.csproj",
+        "projectName": "CalculadoraTests",
+        "projectPath": "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\CalculadoraTests\\CalculadoraTests.csproj",
+        "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\CalculadoraTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\EscapeRoom\\EscapeRoom.csproj": {
+                "projectPath": "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\EscapeRoom\\EscapeRoom.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.421\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\EscapeRoom\\EscapeRoom.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\EscapeRoom\\EscapeRoom.csproj",
+        "projectName": "EscapeRoom",
+        "projectPath": "C:\\Users\\bryan\\OneDrive\\Documents\\Github\\EscapeRoom\\EscapeRoom\\EscapeRoom.csproj"
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    }
+  }
+}

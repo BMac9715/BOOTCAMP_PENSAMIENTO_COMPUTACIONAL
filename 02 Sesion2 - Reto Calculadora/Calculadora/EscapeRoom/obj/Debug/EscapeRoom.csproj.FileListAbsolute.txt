@@ -1,0 +1,6 @@
+C:\Users\bryan\OneDrive\Documents\Github\EscapeRoom\EscapeRoom\bin\Debug\EscapeRoom.exe
+C:\Users\bryan\OneDrive\Documents\Github\EscapeRoom\EscapeRoom\bin\Debug\EscapeRoom.pdb
+C:\Users\bryan\OneDrive\Documents\Github\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.csprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Documents\Github\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Documents\Github\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.exe
+C:\Users\bryan\OneDrive\Documents\Github\EscapeRoom\EscapeRoom\obj\Debug\EscapeRoom.pdb

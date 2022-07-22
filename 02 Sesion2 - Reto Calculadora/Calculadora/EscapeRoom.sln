@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeRoom", "EscapeRoom\EscapeRoom.csproj", "{24DA2F5E-4936-4781-AC5B-DBE5481914E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraTests", "CalculadoraTests\CalculadoraTests.csproj", "{BBA74FEF-7D0A-441F-9358-07136148D813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24DA2F5E-4936-4781-AC5B-DBE5481914E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DA2F5E-4936-4781-AC5B-DBE5481914E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DA2F5E-4936-4781-AC5B-DBE5481914E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DA2F5E-4936-4781-AC5B-DBE5481914E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA74FEF-7D0A-441F-9358-07136148D813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA74FEF-7D0A-441F-9358-07136148D813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA74FEF-7D0A-441F-9358-07136148D813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA74FEF-7D0A-441F-9358-07136148D813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23EBA446-0724-4B75-9BA9-F21A2A109D1F}
+	EndGlobalSection
+EndGlobal
